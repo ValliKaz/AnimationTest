@@ -20,6 +20,6 @@ AnimationButton is a Unity project showcasing interactive explosion effects usin
 - **Assets/Materials/**: Materials for particle effects.
 
 ## Visual Output
-This gif animation without audio, but you can still see how it works in total. As you can see I have divided animations on 6 buttons for show every step on creating animation:
+This GIF animation has no audio, but you can still see how it works overall. I’ve divided the animation into six button-based steps to demonstrate each stage of the process:
 - **FlashBurst** - **FireBall** - **Debris** - **SmokeDust** - **Sound** - **Explosion** (combined effect based on previous ones)
-- ![Administrator_AnimationTestScene-TestScene-WindowsMacLinux-Unity66000 0 42f1_DX11_2025-04-2116-28-04-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/49c486a5-c2f6-430f-8a26-c5151ceff5d9)
+![Animation GIF](https://github.com/user-attachments/assets/49c486a5-c2f6-430f-8a26-c5151ceff5d9)
